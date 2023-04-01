@@ -22,3 +22,18 @@ pip install numpy
 ```
 pip install matplotlib
 ```
+
+### Usage
+<ins>To use this notebook, follow these steps:</ins>
+
+**1.** Make sure you have all the required libraries installed.
+
+**2.** Save the image you want to process in your local directory or provide the path of the image in the code.
+
+**3.** Copy and paste the code into a new cell in the Jupyter notebook.
+
+**4.** Run the code cell.
+
+**5.** The output will display the percentage of each color in the image, a bar graph showing the percentage of each color, and the highest color point in          the image.
+
+**6.** Save the Jupyter notebook and the output images for future reference.
