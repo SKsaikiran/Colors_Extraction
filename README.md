@@ -37,3 +37,8 @@ pip install matplotlib
 **5.** The output will display the percentage of each color in the image, a bar graph showing the percentage of each color, and the highest color point in          the image.
 
 **6.** Save the Jupyter notebook and the output images for future reference.
+
+**<ins>Note</ins>**: The code may take some time to execute depending on the size of the image and the processing power of your system. Also, make sure that the image is in a format supported by OpenCV, such as **.jpg, .png, etc**.
+
+### Conclusion
+
