@@ -2,9 +2,7 @@
 
 **This Jupyter notebook contains Python code that uses the OpenCV and Matplotlib libraries to extract the percentage of colors and segregate them for a single input image using image processing. It also displays the color names and their percentages with bar graph and highlighted highest color point as output.**
 
----------------------------
-
-### Required Libraries
+## Required Libraries
 To run the code in this notebook, you will need the following libraries:
 - OpenCV (cv2)
 - NumPy (np)
@@ -23,7 +21,7 @@ pip install numpy
 pip install matplotlib
 ```
 
-### Usage
+## Usage
 <ins>To use this notebook, follow these steps:</ins>
 
 **1.** Make sure you have all the required libraries installed.
@@ -40,5 +38,6 @@ pip install matplotlib
 
 **<ins>Note</ins>**: The code may take some time to execute depending on the size of the image and the processing power of your system. Also, make sure that the image is in a format supported by OpenCV, such as **.jpg, .png, etc**.
 
-### Conclusion
+## Conclusion
 
+This notebook provides a simple and efficient way to extract the percentage of colors and segregate them in a single input image using OpenCV and Matplotlib. The analysis is displayed along with the color names and their percentages. The output bar graph and highlighted highest color point provide visual representations of the analysis for easy understanding and interpretation.
